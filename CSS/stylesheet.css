@@ -67,6 +67,10 @@ body{
   height: 500px;
 }
 
+.big-sliderbox img{
+  border-radius: 3px;
+}
+
 footer {
   display: flex;
   flex-direction: row;
